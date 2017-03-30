@@ -30,6 +30,9 @@ public class Ej109 {
             sorteo.Añadir(nAlumno, nSorteado);
         }
         
+        //Primera lista
+        
+                
     }
     
     public static boolean numeroRepetido(int[] numeros, int n) {
